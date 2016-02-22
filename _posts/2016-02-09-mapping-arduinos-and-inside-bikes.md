@@ -39,7 +39,7 @@ github](https://github.com/pr0duce/traffic_counter).
    allowfullscreen></iframe>
    <div class="caption">
      Colin suits up for a <a href="https://vimeo.com/156310882">traffic sensor demo</a> (Sorry
-     for the veritcal video!)
+     for the vertical video!)
    </div>
 </div>
 
