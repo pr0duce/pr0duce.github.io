@@ -50,3 +50,7 @@ solderer.
 Fernando showed off his progress with his
 Jonny-5(node JS)/Arduino/Raspberry-Pi/Wireless/React-Native/iOS light switch.  It
 is truly a thing to behold.
+
+Doug spent the night studying up on the latest and greatest features of
+a [javascript from the
+future](https://github.com/lukehoban/es6features).
