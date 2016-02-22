@@ -1,3 +1,23 @@
+.media-box {
+  margin-bottom: 15px;
+  border: solid rgba(25,130,76, 0.5) 4px;
+  img, iframe {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  .caption {
+    background-color: rgba(25,130,76, 0.5);
+    /**
+     * HACK to cover white bar under vimeo embed
+     * preivously:
+     * padding: 4px 5px 0px 5px;
+     */
+    padding: 10px 5px 0px 5px;
+    margin-top: -6px;
+  }
+}
+
 /**
  * Reset some basic elements
  */

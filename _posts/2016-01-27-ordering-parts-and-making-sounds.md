@@ -11,18 +11,20 @@ Ryan worked on a mini circuit bending kit, which Doug handsomely
 demonstrates.
 <br />
 
-<iframe src="https://player.vimeo.com/video/153330641" width="500"
-height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen
-allowfullscreen></iframe>
-<p><a href="https://vimeo.com/153330641">Circuit bending at pr0duce.</a>
-from <a href="https://vimeo.com/user5057095">mic</a> on <a
-href="https://vimeo.com">Vimeo</a>.</p>
+<div class='media-box'>
+  <iframe src="https://player.vimeo.com/video/153330641" 
+  height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen
+  allowfullscreen></iframe>
+  <div class="caption">
+    <a href="https://vimeo.com/153330641">Circuit bending at pr0duce.</a>
+  </div>
+</div>
 
 Fernando regailed us with tails from his youth of modifying a
 soap-box car with a lawn mower engine. Thank god he never finished it.
 He also fiddled with some button LED circuits.
 
-<div>
+<div class='media-box'>
   <img src="/images/posts/2016-01-27/electronics_and_workbench.jpg">
   <div class="caption">
     microcontrollers on a medievel workbench
