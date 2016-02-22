@@ -43,6 +43,10 @@ github](https://github.com/pr0duce/traffic_counter).
    </div>
 </div>
 
+This was especially cool because it was running on an Arduino that Colin
+assembled. I'm impressed, but not surprised that he's such a neat
+solderer.
+
 Fernando showed off his progress with his
 Jonny-5(node JS)/Arduino/Raspberry-Pi/Wireless/React-Native/iOS light switch.  It
 is truly a thing to behold.
