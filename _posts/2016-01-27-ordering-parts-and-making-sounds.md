@@ -12,7 +12,7 @@ demonstrates.
 <br />
 
 <div class='media-box'>
-  <iframe src="https://player.vimeo.com/video/153330641" 
+  <iframe src="https://player.vimeo.com/video/153330641"
   height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen
   allowfullscreen></iframe>
   <div class="caption">
@@ -20,7 +20,7 @@ demonstrates.
   </div>
 </div>
 
-Fernando regailed us with tails from his youth of modifying a
+Fernando regaled us with tails from his youth of modifying a
 soap-box car with a lawn mower engine. Thank god he never finished it.
 He also fiddled with some button LED circuits.
 
@@ -32,8 +32,8 @@ He also fiddled with some button LED circuits.
 </div>
 
 Michael did some research on a DIY traffic counter, for counting bicycle
-traffic around LA. There was a company that previosly published some
-good resources to build your own pneuatic sensor under a Creative
+traffic around LA. There was a company that previously published some
+good resources to build your own pneumatic sensor under a Creative
 Commons License, but they've [since been taken
 down](http://tomorrow-lab.com/lab16). [Internet
 Archive](https://archive.org) to the rescue!  In [early

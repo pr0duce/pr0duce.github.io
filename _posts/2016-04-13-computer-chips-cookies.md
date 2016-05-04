@@ -6,7 +6,7 @@ categories: worknight
 ---
 
 Continuing our ruthless War on Pizza, dinner was lentils and stewed
-tomates, roasted vegetables, and kale grapefruit salad. Sound too
+tomatoes, roasted vegetables, and kale grapefruit salad. Sound too
 healthy? Scroll on my friend.
 
 Doug is taking a Machine Learning course through <a
@@ -55,5 +55,4 @@ As alluded to in the intro, Hazel had a real crowd pleasing project.
     Irma Rombauer, author of <a href="https://en.wikipedia.org/wiki/Irma_S._Rombauer">The Joy of Cooking</a>.
   </div>
 </div>
-
 

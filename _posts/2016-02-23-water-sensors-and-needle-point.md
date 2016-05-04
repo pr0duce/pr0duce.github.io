@@ -19,8 +19,9 @@ little tenacity.
 
 Colin wants to build a moisture sensing automated watering system for
 his outdoor garden. To that end Colin and Fernando paired on getting
-[Rasbian]() installed on Colin's new raspberry pi.  They also soldered
-on some contact points for Colin's moisture sensor.
+[Rasbian](https://www.raspberrypi.org/downloads/raspbian/) installed on
+Colin's new raspberry pi.  They also soldered on some contact points for
+Colin's moisture sensor.
 
 <div class='media-box'>
   <img src="/images/posts/2016-02-23/Moisture Sensor.jpg" />
@@ -40,6 +41,4 @@ to reliably measure bicycle traffic.
     freaking dollar! Who buys these things???
   </div>
 </div>
-
-
 
