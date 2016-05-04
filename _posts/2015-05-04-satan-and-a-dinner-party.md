@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Satan and a dinner party
+title: Satan and a Dinner Party
 date:  2016-05-03 21:27:26 -0800
 categories: worknight
 ---

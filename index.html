@@ -4,21 +4,30 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">work nights</h1>
+  <p>
+    Every so often we get together in the Produce District in Los Angeles. We eat
+    dinner together and work on projects. Sometimes we're collaborating, and
+    sometimes we're working on our own projects.
+  </p>
+
+  <p>
+    If you have a project, and you'd like to come by next time, send an email
+    to michael at jackpine (punto) me.
+  </p>
+
+  <br />
+
+  <h3>
+    Here's what we've been up to lately
+  </h3>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br />
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
