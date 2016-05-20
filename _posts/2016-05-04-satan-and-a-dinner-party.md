@@ -29,15 +29,15 @@ bike traffic sensing circuit, Michael came up with a new design.
 </div>
 
 Dinner was Japanese, featuring okonomiyaki, which is often described as
-a "savory vegetable pancake." Really though, it's more of a hash, or
-even, "a ball of delicious vegetable garbage". Ingredients include
-cabbage, carrots, taro, shitake, enokitake, lots of alliums - really,
-whatever is at hand. All of this is mixed with lots of egg and not that
-much flour. It's fried and topped with some tasty condiments. Also there
-was some chill cucumber sesame salad, miso soup, and a sashimi platter.
-Also there appeared a really glorious chocolate pastry. It was heard
-described as "a brownie inside a croissant" and "super dank".  We ate it
-all.
+*a savory vegetable pancake*. Really though, it's more of a hash, or
+even, *a ball of delicious vegetable garbage*. Ingredients included but
+were not limited to cabbage, carrots, taro, shitake, enokitake, lots of
+alliums - really, whatever is at hand. This is held together with
+several eggs and a bit of flour. It's fried and topped with some tasty
+condiments. Also there was some chilled cucumber sesame salad, miso
+soup, and a sashimi platter.  At the end there appeared a really
+glorious chocolate pastry. It was heard described as *a brownie
+inside a croissant* and equally as *super dank*.  We ate it all.
 
 <div class='media-box'>
   <img src="/images/posts/2016-05-03/Satan Loves Okonomiyaki.jpg" />
