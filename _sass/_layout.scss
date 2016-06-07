@@ -98,7 +98,8 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid darken($grey-color-light, 5%);
+    background-color: $grey-color-light;
     padding: $spacing-unit 0;
 }
 
