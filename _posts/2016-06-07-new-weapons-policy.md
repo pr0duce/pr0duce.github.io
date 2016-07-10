@@ -36,11 +36,12 @@ powder coater?
   </div>
 </div>
 
-One screw was particularly hard to get at *and* super rusted. Being
-knowledgeable mechanics who didn't want to strip this screw, we employed
-an impact driver. However, the screw was so rusted, and the impact
-driver was so cheap, that it sheared off our driver bit, lodging it into the
-screw, and rendered the screw completely useless and utterly stuck.
+One screw in the base of the espresso machine was particularly hard to
+get at *and* super rusted. Being knowledgeable mechanics who didn't want
+to strip this screw, we employed an impact driver. However, the screw
+was so rusted, and the impact driver was so cheap, that it sheared off
+our driver bit, lodging it into the screw, and rendered the screw
+completely useless and utterly stuck.
 
 <div class="media-box">
   <img src="/images/posts/2016-06-07/jammed screw.jpg" />
