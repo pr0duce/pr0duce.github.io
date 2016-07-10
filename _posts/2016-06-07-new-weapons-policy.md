@@ -26,6 +26,17 @@ this week working on embroidery.
   </div>
 </div>
 
+Fernando sort of takes a break from sharpening his kitchen knives to
+show off the hacker approved way to watch Al Jazeera - streamed onto his
+Raspberry Pi powered media box of course!
+
+<div class="media-box">
+  <img src="/images/posts/2016-06-07/media box.jpg" title="Yo dawg, blah blah blah, media box in a media box." />
+  <div class="caption">
+    Is this what corporate media means when they refer to <em>Media Pirates</em>? <em>Yarrr</em>.
+  </div>
+</div>
+
 Colin, continuing his Espresso Machine Odyssey, disassembled the paneling
 with the intention of having it powder coated. Anyone know a good local
 powder coater?
