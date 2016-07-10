@@ -52,8 +52,8 @@ completely useless and utterly stuck.
   </div>
 </div>
 
-And a very ambitious project, these folks are working on building their
-very own PCR machine - one component of DNA sequencing.
+Embarking on a very ambitious project, these folks are working on
+building their very own PCR machine - one component of DNA sequencing.
 
 <div class="media-box">
   <img src="/images/posts/2016-06-07/sequencing.jpg" />
