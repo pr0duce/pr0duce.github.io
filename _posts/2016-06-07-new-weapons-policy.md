@@ -38,12 +38,12 @@ Raspberry Pi powered media box of course!
 </div>
 
 Colin, continuing his Espresso Machine Odyssey, disassembled the paneling
-with the intention of having it powder coated. Anyone know a good local
-powder coater?
+with the intention of having it powder coated.
 
 <div class="media-box">
   <img src="/images/posts/2016-06-07/espresso machine.jpg" />
   <div class="caption">
+    Anyone know a good local powder coater?
   </div>
 </div>
 
